@@ -23,7 +23,7 @@ Adobe
 Audacity
 
 - [The scratch symbol tutorial](https://plugins.audacityteam.org/contributing/developing-your-own-plugins-and-scripts/creating-your-own-nyquist-plugins/tutorials/the-scratch-symbol-tutorial)
-- [](https://plugins.audacityteam.org/contributing/developing-your-own-plugins-and-scripts/creating-your-own-nyquist-plugins/tutorials/file-button-tutorial)
+- [File Button tutorial](https://plugins.audacityteam.org/contributing/developing-your-own-plugins-and-scripts/creating-your-own-nyquist-plugins/tutorials/file-button-tutorial)
 - [VST3 Plugins](https://steinbergmedia.github.io/vst3_doc/vstsdk/index.html#vst3General)
 - [SDK Steinberg](https://sdk.steinberg.net)
 - [Nyquist Plugins Basics](https://plugins.audacityteam.org/contributing/developing-your-own-plugins-and-scripts/creating-your-own-nyquist-plugins/basics/prompt-basics)
